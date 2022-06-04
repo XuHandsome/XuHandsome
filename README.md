@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 May 2022 - To: 02 June 2022
+From: 04 May 2022 - To: 03 June 2022
 
 Markdown     24 hrs 46 mins  ████████████░░░░░░░░░░░░░   47.78 %
 Vue.js       8 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
