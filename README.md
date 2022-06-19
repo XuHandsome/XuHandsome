@@ -16,11 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 May 2022 - To: 17 June 2022
+From: 19 May 2022 - To: 18 June 2022
 
-Markdown   31 hrs 41 mins  ███████████████████▒░░░░░   77.57 %
-Go         1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Other      1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Markdown   30 hrs 35 mins  ███████████████████▓░░░░░   79.23 %
+Go         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+systemd    1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Other      1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
