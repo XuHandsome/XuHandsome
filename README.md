@@ -16,10 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 30 June 2022
+From: 01 June 2022 - To: 01 July 2022
 
-Markdown   33 hrs 24 mins  ███████████████░░░░░░░░░░   60.33 %
-Bash       6 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+Markdown   31 hrs 35 mins  ██████████████▒░░░░░░░░░░   57.09 %
+Bash       8 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
 YAML       5 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
 Other      4 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
 ```
