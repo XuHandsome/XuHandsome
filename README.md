@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 01 July 2022
+From: 02 June 2022 - To: 02 July 2022
 
-Markdown   31 hrs 35 mins  ██████████████▒░░░░░░░░░░   57.09 %
-Bash       8 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
-YAML       5 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-Other      4 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Markdown   30 hrs 56 mins  ██████████████░░░░░░░░░░░   56.58 %
+Bash       8 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+YAML       5 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Other      4 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
 ```
 
 <!--END_SECTION:waka-->
