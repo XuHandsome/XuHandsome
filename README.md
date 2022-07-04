@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 June 2022 - To: 02 July 2022
+From: 03 June 2022 - To: 03 July 2022
 
 Markdown   30 hrs 56 mins  ██████████████░░░░░░░░░░░   56.58 %
 Bash       8 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
