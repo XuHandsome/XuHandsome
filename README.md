@@ -16,10 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 August 2022 - To: 04 September 2022
+From: 06 August 2022 - To: 05 September 2022
 
-Markdown           28 hrs 30 mins  ███████▓░░░░░░░░░░░░░░░░░   30.46 %
-Other              22 hrs 16 mins  ██████░░░░░░░░░░░░░░░░░░░   23.79 %
+Markdown           30 hrs 10 mins  ███████▓░░░░░░░░░░░░░░░░░   30.24 %
+Other              23 hrs 52 mins  ██████░░░░░░░░░░░░░░░░░░░   23.92 %
 ```
 
 <!--END_SECTION:waka-->
