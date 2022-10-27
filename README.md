@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 September 2022 - To: 24 October 2022
+From: 25 September 2022 - To: 25 October 2022
 
-Markdown     26 hrs 42 mins  ██████████▒░░░░░░░░░░░░░░   41.85 %
-Go           16 hrs 59 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
-YAML         5 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Other        4 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Markdown            29 hrs 40 mins  ███████████░░░░░░░░░░░░░░   43.42 %
+Go                  17 hrs          ██████▒░░░░░░░░░░░░░░░░░░   24.88 %
+YAML                5 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Other               4 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
 ```
 
 <!--END_SECTION:waka-->
