@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 November 2022 - To: 07 December 2022
+From: 08 November 2022 - To: 08 December 2022
 
-Python                     56 hrs 10 mins  ████████████▓░░░░░░░░░░░░   50.79 %
-Markdown                   20 hrs 30 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
-Other                      10 hrs 57 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Python                     57 hrs 42 mins  ████████████▓░░░░░░░░░░░░   51.10 %
+Markdown                   19 hrs 22 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+Other                      13 hrs 1 min    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
 ```
 
 <!--END_SECTION:waka-->
