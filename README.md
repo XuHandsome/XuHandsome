@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 December 2022 - To: 06 January 2023
+From: 08 December 2022 - To: 07 January 2023
 
-Markdown           18 hrs 31 mins  ██████████░░░░░░░░░░░░░░░   40.35 %
-Python             15 hrs 58 mins  ████████▓░░░░░░░░░░░░░░░░   34.82 %
-YAML               4 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-Other              4 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Markdown           18 hrs 19 mins  ███████████▒░░░░░░░░░░░░░   45.62 %
+Python             12 hrs 45 mins  ████████░░░░░░░░░░░░░░░░░   31.79 %
+YAML               4 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+Other              1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 
 <!--END_SECTION:waka-->
