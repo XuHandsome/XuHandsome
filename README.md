@@ -16,14 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 08 January 2023
+From: 10 December 2022 - To: 09 January 2023
 
-Markdown           17 hrs 41 mins  ███████████▓░░░░░░░░░░░░░   46.91 %
-Python             11 hrs 54 mins  ████████░░░░░░░░░░░░░░░░░   31.58 %
-YAML               4 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Bash               1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-JavaScript         1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Other              1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Markdown           19 hrs 16 mins  ██████████▓░░░░░░░░░░░░░░   42.61 %
+Python             15 hrs 25 mins  ████████▓░░░░░░░░░░░░░░░░   34.08 %
+YAML               4 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+Other              3 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
 ```
 
 <!--END_SECTION:waka-->
