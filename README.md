@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 31 January 2023
+From: 02 January 2023 - To: 01 February 2023
 
-Markdown            22 hrs 21 mins  ██████████░░░░░░░░░░░░░░░   40.63 %
-Python              16 hrs 33 mins  ███████▓░░░░░░░░░░░░░░░░░   30.11 %
-Other               6 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+Markdown            23 hrs 27 mins  █████████▓░░░░░░░░░░░░░░░   38.21 %
+Python              16 hrs 58 mins  ███████░░░░░░░░░░░░░░░░░░   27.66 %
+Other               7 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
 ```
 
 <!--END_SECTION:waka-->
