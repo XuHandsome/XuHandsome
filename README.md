@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 May 2023 - To: 14 June 2023
+From: 16 May 2023 - To: 15 June 2023
 
-Python              41 hrs 43 mins  █████████████▒░░░░░░░░░░░   53.08 %
-Markdown            16 hrs 19 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-YAML                8 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Other               3 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Docker              2 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Python              36 hrs 44 mins  ███████████▓░░░░░░░░░░░░░   47.01 %
+Markdown            18 hrs 58 mins  ██████░░░░░░░░░░░░░░░░░░░   24.28 %
+YAML                9 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Other               3 hrs 52 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Docker              2 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
