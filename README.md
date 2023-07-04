@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2023 - To: 01 July 2023
+From: 02 June 2023 - To: 02 July 2023
 
-Python              14 hrs 55 mins  █████████░░░░░░░░░░░░░░░░   36.58 %
-Markdown            9 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-YAML                5 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
-Other               3 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-reStructuredText    2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Python              11 hrs 57 mins  ████████░░░░░░░░░░░░░░░░░   32.03 %
+Markdown            9 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
+YAML                5 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+Other               3 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+reStructuredText    2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
 ```
 
 <!--END_SECTION:waka-->
