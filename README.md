@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 June 2023 - To: 20 July 2023
+From: 21 June 2023 - To: 21 July 2023
 
 YAML               12 hrs 55 mins  ████████████▒░░░░░░░░░░░░   49.12 %
 Markdown           5 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
