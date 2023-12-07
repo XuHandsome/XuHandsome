@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2023 - To: 04 December 2023
+From: 06 November 2023 - To: 06 December 2023
 
-Python             19 hrs 37 mins  █████████▒░░░░░░░░░░░░░░░   37.85 %
-Markdown           18 hrs 44 mins  █████████░░░░░░░░░░░░░░░░   36.17 %
-YAML               6 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
-Bash               1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Other              1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Markdown           20 hrs 28 mins  █████████▒░░░░░░░░░░░░░░░   37.28 %
+Python             19 hrs 37 mins  █████████░░░░░░░░░░░░░░░░   35.71 %
+YAML               6 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+Other              2 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Bash               1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
