@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 31 December 2023
+From: 02 December 2023 - To: 01 January 2024
 
 Markdown                   30 hrs 57 mins  ██████████████░░░░░░░░░░░   56.34 %
 Python                     7 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
