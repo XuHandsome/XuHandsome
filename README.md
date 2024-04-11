@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2024 - To: 08 April 2024
+From: 11 March 2024 - To: 10 April 2024
 
-Markdown          44 hrs 50 mins  ████████████████▒░░░░░░░░   65.11 %
-YAML              10 hrs 29 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-Other             5 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Python            3 hrs 43 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-SQL               1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Markdown          42 hrs 43 mins  ███████████████░░░░░░░░░░   60.60 %
+YAML              11 hrs 33 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Python            5 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Other             5 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+SQL               1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
