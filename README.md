@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2024 - To: 31 May 2024
+From: 02 May 2024 - To: 01 June 2024
 
 Markdown   30 hrs 35 mins  ██████████████▒░░░░░░░░░░   57.81 %
 YAML       13 hrs 31 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
