@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2024 - To: 03 July 2024
+From: 04 June 2024 - To: 04 July 2024
 
-Markdown                   22 hrs 20 mins  ████████▓░░░░░░░░░░░░░░░░   34.10 %
-YAML                       16 hrs 8 mins   ██████░░░░░░░░░░░░░░░░░░░   24.65 %
-Other                      9 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-Bash                       9 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Docker                     3 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Markdown                   21 hrs 15 mins  ████████░░░░░░░░░░░░░░░░░   31.88 %
+YAML                       15 hrs 39 mins  ██████░░░░░░░░░░░░░░░░░░░   23.47 %
+Other                      11 hrs 47 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
+Bash                       9 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Docker                     3 hrs 47 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 ```
 
 <!--END_SECTION:waka-->
