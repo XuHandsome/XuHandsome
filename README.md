@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2024 - To: 04 August 2024
+From: 06 July 2024 - To: 05 August 2024
 
 Markdown         23 hrs 50 mins  ██████████▒░░░░░░░░░░░░░░   41.95 %
 YAML             20 hrs 23 mins  █████████░░░░░░░░░░░░░░░░   35.88 %
