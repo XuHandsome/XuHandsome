@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2024 - To: 02 September 2024
+From: 04 August 2024 - To: 03 September 2024
 
-Go                         21 hrs 54 mins  ████████▓░░░░░░░░░░░░░░░░   34.26 %
-YAML                       17 hrs 14 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
-Markdown                   17 hrs 5 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
-Docker                     3 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Makefile                   1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Go                         21 hrs 54 mins  ████████▒░░░░░░░░░░░░░░░░   32.82 %
+YAML                       19 hrs 42 mins  ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+Markdown                   17 hrs 10 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
+Docker                     3 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Makefile                   1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
