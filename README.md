@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 10 December 2024
+From: 11 November 2024 - To: 11 December 2024
 
-Markdown                   24 hrs 5 mins   ████████▓░░░░░░░░░░░░░░░░   34.40 %
-Other                      23 hrs 7 mins   ████████▒░░░░░░░░░░░░░░░░   33.04 %
-YAML                       14 hrs 34 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
-Python                     2 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Groovy                     2 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Markdown                   25 hrs 27 mins  █████████░░░░░░░░░░░░░░░░   35.41 %
+Other                      22 hrs 21 mins  ███████▓░░░░░░░░░░░░░░░░░   31.09 %
+YAML                       13 hrs 30 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
+Python                     5 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Groovy                     2 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
