@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2024 - To: 25 January 2025
+From: 27 December 2024 - To: 26 January 2025
 
-Markdown         20 hrs 1 min    ████████▓░░░░░░░░░░░░░░░░   34.51 %
-YAML             16 hrs 15 mins  ███████░░░░░░░░░░░░░░░░░░   28.02 %
-Go               13 hrs 25 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
-Docker           2 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-SQL              1 hr 47 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Markdown         18 hrs 21 mins  ████████▓░░░░░░░░░░░░░░░░   34.55 %
+YAML             14 hrs 17 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
+Go               12 hrs 36 mins  ██████░░░░░░░░░░░░░░░░░░░   23.72 %
+Docker           2 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+SQL              1 hr 47 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
