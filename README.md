@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2025 - To: 07 February 2025
+From: 09 January 2025 - To: 08 February 2025
 
-Go               12 hrs 59 mins  ███████▓░░░░░░░░░░░░░░░░░   31.07 %
-Markdown         11 hrs 15 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
-YAML             10 hrs 55 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
-Docker           2 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-SQL              1 hr 47 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Go               12 hrs 59 mins  ████████▓░░░░░░░░░░░░░░░░   34.15 %
+Markdown         10 hrs 8 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
+YAML             8 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
+Docker           2 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+SQL              1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
 
 <!--END_SECTION:waka-->
