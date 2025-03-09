@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2025 - To: 06 March 2025
+From: 05 February 2025 - To: 07 March 2025
 
-Markdown                   24 hrs 55 mins  ███████████▒░░░░░░░░░░░░░   45.32 %
-YAML                       15 hrs 23 mins  ███████░░░░░░░░░░░░░░░░░░   27.99 %
-Other                      4 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Bash                       2 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Python                     2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Markdown                   25 hrs 25 mins  ███████████▒░░░░░░░░░░░░░   44.72 %
+YAML                       15 hrs 23 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.07 %
+Other                      5 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Bash                       2 hrs 53 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Docker                     2 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
