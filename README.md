@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2025 - To: 09 May 2025
+From: 10 April 2025 - To: 10 May 2025
 
-Markdown     37 hrs 43 mins  ███████████▓░░░░░░░░░░░░░   46.04 %
-Python       22 hrs 25 mins  ███████░░░░░░░░░░░░░░░░░░   27.37 %
-TypeScript   7 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-YAML         6 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-CSS          2 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Markdown     33 hrs 34 mins  ██████████▓░░░░░░░░░░░░░░   43.28 %
+Python       22 hrs 24 mins  ███████▒░░░░░░░░░░░░░░░░░   28.89 %
+TypeScript   7 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+YAML         6 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+CSS          2 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
