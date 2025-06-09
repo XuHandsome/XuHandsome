@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2025 - To: 06 June 2025
+From: 08 May 2025 - To: 07 June 2025
 
-Go               87 hrs 19 mins  ██████████████████▓░░░░░░   75.26 %
-Markdown         18 hrs 13 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-Docker           4 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-YAML             3 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Makefile         1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Go               87 hrs 19 mins  ███████████████████░░░░░░   76.23 %
+Markdown         16 hrs 46 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+Docker           4 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+YAML             3 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Makefile         1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
