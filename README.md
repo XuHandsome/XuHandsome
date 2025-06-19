@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2025 - To: 16 June 2025
+From: 18 May 2025 - To: 17 June 2025
 
 Go          72 hrs 49 mins  █████████████████▓░░░░░░░   70.58 %
 Markdown    19 hrs 44 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
