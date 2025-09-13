@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2025 - To: 10 September 2025
+From: 12 August 2025 - To: 11 September 2025
 
-Markdown                   22 hrs 22 mins  ████████▒░░░░░░░░░░░░░░░░   33.29 %
-YAML                       16 hrs 10 mins  ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-Groovy                     15 hrs 11 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
-Other                      5 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Go                         4 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Markdown                   23 hrs 5 mins   ████████▓░░░░░░░░░░░░░░░░   34.92 %
+YAML                       16 hrs 10 mins  ██████░░░░░░░░░░░░░░░░░░░   24.47 %
+Groovy                     13 hrs 13 mins  █████░░░░░░░░░░░░░░░░░░░░   19.99 %
+Other                      4 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Go                         4 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
 ```
 
 <!--END_SECTION:waka-->
