@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2025 - To: 01 November 2025
+From: 03 October 2025 - To: 02 November 2025
 
 Markdown   28 hrs 1 min    ██████████████▒░░░░░░░░░░   56.69 %
 YAML       11 hrs 31 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
