@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2026 - To: 12 February 2026
+From: 14 January 2026 - To: 13 February 2026
 
-Markdown         29 hrs 25 mins  ████████████░░░░░░░░░░░░░   47.69 %
-Go               14 hrs 16 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
-Vue.js           4 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-YAML             4 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-Groovy           2 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Markdown     28 hrs 47 mins  █████████████░░░░░░░░░░░░   52.04 %
+Go           8 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+Vue.js       4 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+YAML         4 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Groovy       2 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 ```
 
 <!--END_SECTION:waka-->
