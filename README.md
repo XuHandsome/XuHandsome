@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2026 - To: 05 March 2026
+From: 04 February 2026 - To: 06 March 2026
 
-Markdown   15 hrs 40 mins  ████████████████░░░░░░░░░   63.35 %
-Groovy     2 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-YAML       2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Docker     1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-JSON       1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Markdown   14 hrs 12 mins  ███████████████▒░░░░░░░░░   61.12 %
+Groovy     2 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+YAML       2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Docker     1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+JSON       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
