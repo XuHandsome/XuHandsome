@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2026 - To: 05 April 2026
+From: 07 March 2026 - To: 06 April 2026
 
 Markdown     31 hrs 32 mins  ████████████████▒░░░░░░░░   65.86 %
 Bash         6 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
