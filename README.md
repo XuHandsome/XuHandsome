@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 30 May 2026
+From: 01 May 2026 - To: 31 May 2026
 
 Markdown             24 hrs 22 mins  █████████▒░░░░░░░░░░░░░░░   37.73 %
 Go                   10 hrs 52 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
