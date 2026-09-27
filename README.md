@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2026 - To: 24 September 2026
+From: 26 August 2026 - To: 25 September 2026
 
-Other        22 hrs 24 mins  █████████▒░░░░░░░░░░░░░░░   37.86 %
-Markdown     17 hrs 18 mins  ███████▒░░░░░░░░░░░░░░░░░   29.24 %
-YAML         10 hrs 4 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
-Ruby         2 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Bash         1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Other        20 hrs 6 mins   █████████▒░░░░░░░░░░░░░░░   37.08 %
+Markdown     14 hrs 50 mins  ███████░░░░░░░░░░░░░░░░░░   27.38 %
+YAML         10 hrs 4 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+Ruby         2 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Bash         1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
