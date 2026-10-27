@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2026 - To: 24 October 2026
+From: 25 September 2026 - To: 25 October 2026
 
 Markdown     32 hrs 25 mins  ████████████░░░░░░░░░░░░░   48.11 %
 Other        10 hrs 52 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
